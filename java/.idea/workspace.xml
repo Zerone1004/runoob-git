@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ff42395-4926-4082-9b22-00b873a39774" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/HelloJava/src/test/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloJava/src/test/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloJava/src/test/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloJava/src/test/Test13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloJava/src/test/Test14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloJava/src/test/Test15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloJava/src/test/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloJava/src/test/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloJava/src/test/Test9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2eeSlX2zrpFQmfphARn7CZjwhJO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/学习/java"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+</project>
